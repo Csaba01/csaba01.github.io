@@ -6,3 +6,7 @@ img:hover {
   width: 400px;
   margin: 0;
 }
+
+p {
+  text-align: center;
+}
